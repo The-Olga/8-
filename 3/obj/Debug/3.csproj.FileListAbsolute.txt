@@ -1,0 +1,11 @@
+C:\Users\Оля\source\repos\8дз\3\bin\Debug\3.exe.config
+C:\Users\Оля\source\repos\8дз\3\bin\Debug\3.exe
+C:\Users\Оля\source\repos\8дз\3\bin\Debug\3.pdb
+C:\Users\Оля\source\repos\8дз\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\Оля\source\repos\8дз\3\obj\Debug\3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Оля\source\repos\8дз\3\obj\Debug\_3.Form1.resources
+C:\Users\Оля\source\repos\8дз\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\Оля\source\repos\8дз\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\Оля\source\repos\8дз\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Оля\source\repos\8дз\3\obj\Debug\3.exe
+C:\Users\Оля\source\repos\8дз\3\obj\Debug\3.pdb
